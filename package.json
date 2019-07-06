@@ -1,0 +1,24 @@
+{
+  "name": "bot-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grxndy",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "os": "^0.1.1",
+    "translate": "^1.1.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
